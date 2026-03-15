@@ -4,6 +4,14 @@
       <h2 class="display-2 text-center" id="wrk" data-aos="fade-down">Work Experience</h2>
       <div class="col-xl-12">
         <ul class="timeline-list">
+              <li data-aos="fade-right">
+            <div class="timeline_content">
+              <span>August 2025 - December 2025</span>
+              <h4>Intermediate Software Developer</h4>
+              <h5>Four Minute Medicine</h5>
+              <p>At Four Minute Medicine, I worked on multiple products simultaneously, maintaining React and TypeScript applications while building new features such as dashboards and platform functionality. This role strengthened my full-stack development skills and ability to manage several projects.</p>
+            </div>
+          </li>
           <li data-aos="fade-right">
             <div class="timeline_content">
               <span>April 2025 - July 2025</span>
@@ -28,14 +36,14 @@
               <p>As a research assistant at the University of the Western Cape, I collaborated with the faculty on biotechnology experiments, conducting literature reviews, data collection, and analysis. This role enhanced my analytical skills and provided valuable hands-on experience in academic research methodologies.</p>
             </div>
           </li>
-          <li data-aos="fade-right">
+          <!-- <li data-aos="fade-right">
             <div class="timeline_content">
               <span>February 2020 - May 2020</span>
               <h4>Tutor</h4>
               <h5>University of the Western Cape</h5>
               <p>As a tutor for first-year biochemistry students at the University of the Western Cape, I organized study sessions to help students understand challenging topics and offered additional support when needed. My goal was to boost their confidence and ensure they felt prepared and capable in their studies, beyond just passing exams.</p>
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>

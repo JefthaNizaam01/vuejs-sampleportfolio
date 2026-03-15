@@ -47,8 +47,8 @@
                 <p class="skillheading">JavaScript</p>
               </div>
               <div class="box-icon">
-                <i class="devicon devicon-jquery-plain" aria-hidden="true"></i>
-                <p class="skillheading">jQuery</p>
+                <i class="devicon devicon-angularjs-plain" aria-hidden="true"></i>
+                <p class="skillheading">Angular</p>
               </div>
               <div class="box-icon">
                 <i class="devicon devicon-react-original" aria-hidden="true"></i>
@@ -102,8 +102,8 @@
                 <p class="skillheading">WordPress</p>
               </div>
               <div class="box-icon">
-                <i class="fas fa-file-alt" aria-hidden="true"></i>
-                <p class="skillheading">Adobe Suite</p>
+                <i class="devicon devicon-flutter-plain" aria-hidden="true"></i>
+                <p class="skillheading">Flutter</p>
               </div>
             </div>
           </div>
