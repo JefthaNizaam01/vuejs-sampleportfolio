@@ -5,7 +5,7 @@
             <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col" data-aos="fade-up">
                     <div class="card">
-                        <img img id="shadow" src="https://jefthanizaam01.github.io/favoriteimages/images/fullstack1.png" class="card-img-top" alt="keyboard" loading="lazy">
+                        <img img id="shadow" src="/img/projects/fullstack1.png" class="card-img-top" alt="keyboard" loading="lazy">
                         <div class="card-body">
                             <h5 class="card-title">Full-Stack E-Commerce Store</h5>
                             <p class="card-text">Developed a full-stack e-commerce platform with seamless shopping, user authentication, and an intuitive front-end design.</p>
@@ -18,7 +18,7 @@
                 </div>
                 <div class="col" data-aos="fade-up">
                     <div class="card">
-                        <img img id="shadow" src="https://jefthanizaam01.github.io/favoriteimages/images/Art Store .png" class="card-img-top" alt="Art Store">
+                        <img img id="shadow" src="/img/projects/art-store.png" class="card-img-top" alt="Art Store">
                         <div class="card-body">
                             <h5 class="card-title">Art Store</h5>
                             <p class="card-text">Crafted with elegance and simplicity, where exceptional artworks from global artists await discovery by passionate art enthusiasts.</p>
@@ -31,7 +31,7 @@
                 </div>
                 <div class="col" data-aos="fade-up">
                     <div class="card">
-                        <img img id="shadow" src="https://jefthanizaam01.github.io/favoriteimages/images/realhangman.png" class="card-img-top" alt="cube" loading="lazy">
+                        <img img id="shadow" src="/img/projects/realhangman.png" class="card-img-top" alt="cube" loading="lazy">
                         <div class="card-body">
                             <h5 class="card-title">Hangman Game</h5>
                             <p class="card-text">Hangman game built with Python Flask, featuring a dynamic word system and an interactive UI.</p>
@@ -44,7 +44,7 @@
                 </div>
                 <div class="col" data-aos="fade-up">
                     <div class="card">
-                        <img img id="shadow" src="https://jefthanizaam01.github.io/favoriteimages/images/wordpress website.png" class="card-img-top" alt="tribute" loading="lazy">
+                        <img img id="shadow" src="/img/projects/wordpress-website.png" class="card-img-top" alt="tribute" loading="lazy">
                         <div class="card-body">
                             <h5 class="card-title">Inspired Living: Timeless Modern Architecture</h5>
                             <p class="card-text">Created in WordPress, Inspired Living offers custom-designed homes that blend contemporary style with lasting elegance.</p>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="col" data-aos="fade-up">
                     <div class="card">
-                        <img img id="shadow" src="https://jefthanizaam01.github.io/favoriteimages/images/seize11.png" class="card-img-top" alt="calculator" loading="lazy">
+                        <img img id="shadow" src="/img/projects/seize11.png" class="card-img-top" alt="calculator" loading="lazy">
                         <div class="card-body">
                             <h5 class="card-title">Vision: Seize the Moment</h5>
                             <p class="card-text">My vision is to empower individuals and businesses to reach their full potential through innovative digital experiences.</p>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col" data-aos="fade-up">
                     <div class="card">
-                        <img img id="shadow" src="https://jefthanizaam01.github.io/favoriteimages/images/outdoor.png" class="card-img-top" alt="survey" loading="lazy">
+                        <img img id="shadow" src="/img/projects/outdoor.png" class="card-img-top" alt="survey" loading="lazy">
                         <div class="card-body">
                             <h5 class="card-title">Outdoor Adventure</h5>
                             <p class="card-text">Optimized SEO-friendly WordPress build for an outdoor adventure brand.</p>
