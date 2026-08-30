@@ -5,7 +5,7 @@
         <div class="col" data-aos="fade-right">
           <img
             class="img-thumbnail border-5"
-            src="https://jefthanizaam01.github.io/favoriteimages/images/Profile2.jpg"
+            src="/img/profile.jpg"
             alt="profile"
             loading="lazy"
           />
